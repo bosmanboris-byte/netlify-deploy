@@ -1,0 +1,11 @@
+{
+  "name": "netlify-deploy",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'no build step'"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
